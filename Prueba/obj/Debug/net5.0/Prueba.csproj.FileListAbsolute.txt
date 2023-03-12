@@ -1,0 +1,244 @@
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\appsettings.Development.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\appsettings.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.exe
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.deps.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.dev.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ref\Prueba.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.Views.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Prueba.Views.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ServicioWCF.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.MvcApplicationPartsAssemblyInfo.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.RazorAssemblyInfo.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.RazorAssemblyInfo.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\staticwebassets\Prueba.StaticWebAssets.Manifest.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\staticwebassets\Prueba.StaticWebAssets.xml
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\scopedcss\bundle\Prueba.styles.css
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.TagHelpers.input.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.TagHelpers.output.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.RazorCoreGenerate.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.RazorTargetAssemblyInfo.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.RazorTargetAssemblyInfo.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.Views.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.csproj.CopyComplete
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\ref\Prueba.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Prueba.genruntimeconfig.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Humanizer.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\AgregarUsuario.cshtml.g.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\ConsultarUsuarios.cshtml.g.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\ModificarUsuario.cshtml.g.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\appsettings.Development.json
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\appsettings.json
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.exe
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.deps.json
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.json
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.dev.json
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ref\Prueba.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.Views.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Prueba.Views.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Humanizer.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\ServicioWCF.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.MvcApplicationPartsAssemblyInfo.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.RazorAssemblyInfo.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.RazorAssemblyInfo.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\staticwebassets\Prueba.StaticWebAssets.Manifest.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\staticwebassets\Prueba.StaticWebAssets.xml
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\scopedcss\bundle\Prueba.styles.css
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.TagHelpers.input.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.TagHelpers.output.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.RazorCoreGenerate.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\AgregarUsuario.cshtml.g.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\ConsultarUsuarios.cshtml.g.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Razor\Views\UsuarioControlador\ModificarUsuario.cshtml.g.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.RazorTargetAssemblyInfo.cache
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.RazorTargetAssemblyInfo.cs
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.Views.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.csproj.CopyComplete
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\ref\Prueba.dll
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.pdb
+D:\PruebasTécnicas\Nueva carpeta\Prueba\obj\Debug\net5.0\Prueba.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\ServicioWCF.deps.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\ref\ServicioWCF.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\ServicioWCF.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.AssemblyInfo.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.CopyComplete
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ref\ServicioWCF.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\ServicioWCF\obj\Debug\net5.0\ServicioWCF.pdb
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\ServicioWCF.deps.json
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\ref\ServicioWCF.dll
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\ServicioWCF.pdb
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.AssemblyInfo.cs
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.csproj.CopyComplete
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.dll
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ref\ServicioWCF.dll
+D:\PruebasTécnicas\Nueva carpeta\ServicioWCF\obj\Debug\net5.0\ServicioWCF.pdb

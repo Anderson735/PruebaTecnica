@@ -1,0 +1,82 @@
+﻿@using Prueba.Modelos
+@using System.Data
+@model UsuariosVistaModelo
+@using Datos.Usuario
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2
+    }
+
+    th {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .btn {
+        text-decoration: none;
+        padding: 6px 12px;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.42857143;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+    }
+</style>
+
+<center><h2>Consulta de usuarios</h2></center>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Identificación</th>
+            <th>Nombre</th>
+            <th>Fecha de nacimiento</th>
+            <th>Sexo</th>
+            <th>Editar</th>
+            <th>Eliminar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (DataRow row in Model.Usuarios.Rows)
+        {
+            <tr>
+                <td>@row["Identificacion"]</td>
+                <td>@row["Nombre"]</td>
+                <td>@row["FechaNacimiento"]</td>
+                <td>@row["Sexo"]</td>
+                <td>
+                    @Html.ActionLink("Actualizar", "EditarUsuario", new { id = row["Identificacion"] }, new { @class = "btn btn-primary" })
+                </td>
+                <td>
+                    @Html.ActionLink("Eliminar", "EliminarUsuario", new { id = row["Identificacion"] }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br/>
+<br/>
+<a href="@Url.Action("AgregarUsuario","UsuarioControlador" )" class="btn btn-success">Agregar Usuario</a>

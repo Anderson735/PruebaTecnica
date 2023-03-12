@@ -1,0 +1,24 @@
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\PruebasTécnicas\Prueba C# Digital Bank\Datos\obj\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Nueva carpeta\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\PruebasTécnicas\Nueva carpeta\Datos\bin\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\Datos\bin\Debug\net5.0\Datos.pdb
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\PruebasTécnicas\Nueva carpeta\Datos\obj\Debug\net5.0\Datos.pdb
